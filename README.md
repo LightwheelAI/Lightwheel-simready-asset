@@ -1,11 +1,6 @@
 # Lightwheel-simready-asset
 Open-source 3D digital assets for simulation and robot training. Free for non-commercial use.
 
-
-# Lightwheel Simready Assets
-
-Open-source USD assets for Isaac Sim robotics simulation and training.
-
 ## Quick Links
 
 - **Download Assets**: https://www.lightwheel.ai/assets-list
