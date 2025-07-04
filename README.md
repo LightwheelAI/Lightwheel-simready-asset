@@ -51,7 +51,7 @@ Open-source 3D digital assets for simulation and robot training. Free for non-co
 
 ## License
 
-Apache License 2.0 - Commercial use allowed
+Attribution-NonCommercial 4.0 International
 
 ### Required Attribution
 
