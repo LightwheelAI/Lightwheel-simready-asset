@@ -99,7 +99,7 @@ Include in your report:
 - **Plug & Play** - No conversion needed
 - **Battle-Tested** - Validated with Isaac Lab and RL
 - **Interactive** - Pre-configured articulation
-- **Free & Open** - Apache 2.0 license
+- **Free & Open** - Attribution-NonCommercial 4.0 International
 - **Community Support** - Active Discord community
 
 ## Contributing
