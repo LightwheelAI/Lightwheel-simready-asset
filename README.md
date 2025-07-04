@@ -3,18 +3,14 @@ Open-source 3D digital assets for simulation and robot training. Free for non-co
 
 
 Lightwheel Simready Assets
-<div align="center">
-Show Image
-Show Image
-Show Image
+Open-source USD assets for Isaac Sim robotics simulation and training.
+Quick Links
 
-Show Image
+Download Assets: https://www.lightwheel.ai/assets-list
+Discord Community: https://discord.com/invite/FrsNM5v9
+Product Team: https://www.linkedin.com/in/luoyaqi/
+Technical Team: https://www.linkedin.com/in/frank-chen-85979b169/
 
-Open-source USD assets for Isaac Sim robotics simulation
-
-🚀 Download Assets • 💬 Discord Community • 📧 Contact
-
-</div>
 Overview
 259 high-quality USD assets specifically designed for NVIDIA Isaac Sim robotics simulation and training.
 
@@ -22,138 +18,103 @@ Overview
 8 Locomotion Assets - Environments for robot navigation training
 USD Format - Native .usd/.usdz files ready for Isaac Sim
 Fully Tested - Validated with Isaac Lab, teleoperation, and RL workflows
+
 Quick Start
-bash
-# 1. Visit our asset library
-https://www.lightwheel.ai/assets-list
 
-# 2. Download USD assets
-# 3. Drag and drop into Isaac Sim
-# 4. Use Shift + Left Click for articulated objects (doors, drawers)
+Visit https://www.lightwheel.ai/assets-list
+Download USD assets
+Drag and drop into Isaac Sim
+Use Shift + Left Click for articulated objects (doors, drawers)
+
 Attribution Required: Use naming format lightwheel_{asset_name} in your projects
-
 Asset Categories
-<table> <tr> <td>
-🦾 Manipulation (251 Assets)
+Manipulation Assets (251 total)
+
 Household objects
-Kitchen items & tools
+Kitchen items and tools
 Industrial components
 Interactive elements (doors, drawers, cabinets)
-Training objects & geometric shapes
-</td> <td>
-🚶 Locomotion (8 Assets)
+Training objects and geometric shapes
+
+Locomotion Assets (8 total)
+
 Terrain variations
 Navigation environments
 Obstacle courses
-Stairs & slopes
+Stairs and slopes
 Indoor/outdoor spaces
-</td> </tr> </table>
+
 Technical Specifications
-Feature	Details
-Format	USD (.usd, .usdz)
-Target Platform	NVIDIA Isaac Sim 2023.1.1+
-Physics	PhysX-ready collision meshes
-Rendering	RTX-optimized PBR materials
-Interaction	Pre-configured articulation
-Testing	Isaac Lab, Teleoperation, RL validated
-Usage Examples
-Basic Import
-python
-# Isaac Sim Python API example
-from omni.isaac.core.utils.stage import add_reference_to_stage
 
-# Import asset
-add_reference_to_stage(
-    usd_path="/path/to/lightwheel_kitchen_table.usd",
-    prim_path="/World/KitchenTable"
-)
-Attribution in Code
-python
-# Required attribution in your project
-asset_name = "lightwheel_kitchen_table"  # ✅ Correct
-asset_name = "kitchen_table"            # ❌ Missing attribution
-Interaction Controls
-Action	Control
-Articulated Objects	Shift + Left Mouse Button
-Object Selection	Left Mouse Button
-Camera Movement	Middle Mouse + Drag
-Works with doors, drawers, cabinets, and other moving parts
+Format: USD (.usd, .usdz)
+Target Platform: NVIDIA Isaac Sim 2023.1.1+
+Physics: PhysX-ready collision meshes
+Rendering: RTX-optimized PBR materials
+Interaction: Pre-configured articulation
+Testing: Isaac Lab, Teleoperation, RL validated
 
-License & Attribution
-Apache License 2.0
-✅ Commercial use allowed
-✅ Modification allowed
-✅ Distribution allowed
-✅ Private use allowed
+License
+Apache License 2.0 - Commercial use allowed
 Required Attribution
 Use the naming convention: lightwheel_{asset_name}
-
 Examples:
 
 lightwheel_kitchen_table
 lightwheel_robot_arm
 lightwheel_office_chair
-Community & Support
-<table> <tr> <td align="center">
-💬 Discord
+
+Interaction Controls
+
+Articulated Objects: Shift + Left Mouse Button
+Object Selection: Left Mouse Button
+Camera Movement: Middle Mouse + Drag
+
+Works with doors, drawers, cabinets, and other moving parts.
+Support
 Real-time Support
 
-Show Image
+Discord: https://discord.com/invite/FrsNM5v9
 
-</td> <td align="center">
-👥 Product Team
-Yaqi Luo
+Team Contacts
 
-Show Image
+Product Team: Yaqi Luo - https://www.linkedin.com/in/luoyaqi/
+Technical Team: Frank Chen - https://www.linkedin.com/in/frank-chen-85979b169/
 
-</td> <td align="center">
-🔧 Technical Team
-Frank Chen
-
-Show Image
-
-</td> </tr> </table>
 Reporting Issues
-Found a faulty asset? Report it here:
+Found a faulty asset? Contact us:
 
-Method	Best For	Response Time
-💬 Discord	Quick questions	Fastest
-📧 Email	Detailed reports	24-48 hours
-🐛 GitHub Issues	Bug tracking	Community visibility
+Discord: https://discord.com/invite/FrsNM5v9 (fastest response)
+Email: haibo.yang@lightwheel.ai (detailed reports)
+GitHub Issues: For bug tracking and community visibility
+
 Include in your report:
 
 Asset name and download link
 Isaac Sim version
 Issue description
 Steps to reproduce
-Why Choose Lightwheel Assets?
-<div align="center">
-✨ Isaac Sim Native	🔧 Plug & Play	✅ Battle-Tested
-USD format designed for Isaac Sim	No conversion needed	Validated with Isaac Lab & RL
-🎯 Interactive	🆓 Free & Open	🤝 Community
-Pre-configured articulation	Apache 2.0 license	Active Discord support
-</div>
-Contributing
-We welcome contributions! Here's how to help:
 
-🐛 Bug Reports → Open an issue
-💡 Feature Requests → Discord
-🔧 Asset Improvements → Submit a PR
-📚 Documentation → Help improve guides
+Why Choose Lightwheel Assets?
+
+Isaac Sim Native - USD format designed for Isaac Sim
+Plug & Play - No conversion needed
+Battle-Tested - Validated with Isaac Lab and RL
+Interactive - Pre-configured articulation
+Free & Open - Apache 2.0 license
+Community Support - Active Discord community
+
+Contributing
+
+Bug Reports: Open an issue
+Feature Requests: Join our Discord
+Asset Improvements: Submit a pull request
+Documentation: Help improve guides
+
 Contact Information
 Lightwheel AI
-📍 10080 N Wolfe Rd SW3 200, Cupertino, CA 95014
-📧 haibo.yang@lightwheel.ai
-🌐 https://www.lightwheel.ai
+10080 N Wolfe Rd SW3 200, Cupertino, CA 95014
+Email: haibo.yang@lightwheel.ai
+Website: https://www.lightwheel.ai
 
-<div align="center">
 Made with ❤️ by the Lightwheel AI team
-
-Show Image
-Show Image
-Show Image
-
-isaacssim usd robotics simulation 3d-assets machine-learning robot-training manipulation locomotion open-source apache-license nvidia omniverse
-
-</div>
 
