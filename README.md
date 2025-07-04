@@ -2,119 +2,127 @@
 Open-source 3D digital assets for simulation and robot training. Free for non-commercial use.
 
 
-Lightwheel Simready Assets
+# Lightwheel Simready Assets
+
 Open-source USD assets for Isaac Sim robotics simulation and training.
-Quick Links
 
-Download Assets: https://www.lightwheel.ai/assets-list
-Discord Community: https://discord.com/invite/FrsNM5v9
-Product Team: https://www.linkedin.com/in/luoyaqi/
-Technical Team: https://www.linkedin.com/in/frank-chen-85979b169/
+## Quick Links
 
-Overview
+- **Download Assets**: https://www.lightwheel.ai/assets-list
+- **Discord Community**: https://discord.com/invite/FrsNM5v9
+- **Product Team**: https://www.linkedin.com/in/luoyaqi/
+- **Technical Team**: https://www.linkedin.com/in/frank-chen-85979b169/
+
+## Overview
+
 259 high-quality USD assets specifically designed for NVIDIA Isaac Sim robotics simulation and training.
 
-251 Manipulation Assets - Objects for robot manipulation training
-8 Locomotion Assets - Environments for robot navigation training
-USD Format - Native .usd/.usdz files ready for Isaac Sim
-Fully Tested - Validated with Isaac Lab, teleoperation, and RL workflows
+- **251 Manipulation Assets** - Objects for robot manipulation training
+- **8 Locomotion Assets** - Environments for robot navigation training
+- **USD Format** - Native .usd/.usdz files ready for Isaac Sim
+- **Fully Tested** - Validated with Isaac Lab, teleoperation, and RL workflows
 
-Quick Start
+## Quick Start
 
-Visit https://www.lightwheel.ai/assets-list
-Download USD assets
-Drag and drop into Isaac Sim
-Use Shift + Left Click for articulated objects (doors, drawers)
+1. Visit https://www.lightwheel.ai/assets-list
+2. Download USD assets
+3. Drag and drop into Isaac Sim
+4. Use **Shift + Left Click** for articulated objects (doors, drawers)
 
-Attribution Required: Use naming format lightwheel_{asset_name} in your projects
-Asset Categories
-Manipulation Assets (251 total)
+**Attribution Required**: Use naming format `lightwheel_{asset_name}` in your projects
 
-Household objects
-Kitchen items and tools
-Industrial components
-Interactive elements (doors, drawers, cabinets)
-Training objects and geometric shapes
+## Asset Categories
 
-Locomotion Assets (8 total)
+### Manipulation Assets (251 total)
+- Household objects
+- Kitchen items and tools
+- Industrial components
+- Interactive elements (doors, drawers, cabinets)
+- Training objects and geometric shapes
 
-Terrain variations
-Navigation environments
-Obstacle courses
-Stairs and slopes
-Indoor/outdoor spaces
+### Locomotion Assets (8 total)
+- Terrain variations
+- Navigation environments
+- Obstacle courses
+- Stairs and slopes
+- Indoor/outdoor spaces
 
-Technical Specifications
+## Technical Specifications
 
-Format: USD (.usd, .usdz)
-Target Platform: NVIDIA Isaac Sim 2023.1.1+
-Physics: PhysX-ready collision meshes
-Rendering: RTX-optimized PBR materials
-Interaction: Pre-configured articulation
-Testing: Isaac Lab, Teleoperation, RL validated
+- **Format**: USD (.usd, .usdz)
+- **Target Platform**: NVIDIA Isaac Sim 2023.1.1+
+- **Physics**: PhysX-ready collision meshes
+- **Rendering**: RTX-optimized PBR materials
+- **Interaction**: Pre-configured articulation
+- **Testing**: Isaac Lab, Teleoperation, RL validated
 
-License
+## License
+
 Apache License 2.0 - Commercial use allowed
-Required Attribution
-Use the naming convention: lightwheel_{asset_name}
+
+### Required Attribution
+
+Use the naming convention: `lightwheel_{asset_name}`
+
 Examples:
+- `lightwheel_kitchen_table`
+- `lightwheel_robot_arm`
+- `lightwheel_office_chair`
 
-lightwheel_kitchen_table
-lightwheel_robot_arm
-lightwheel_office_chair
+## Interaction Controls
 
-Interaction Controls
-
-Articulated Objects: Shift + Left Mouse Button
-Object Selection: Left Mouse Button
-Camera Movement: Middle Mouse + Drag
+- **Articulated Objects**: Shift + Left Mouse Button
+- **Object Selection**: Left Mouse Button
+- **Camera Movement**: Middle Mouse + Drag
 
 Works with doors, drawers, cabinets, and other moving parts.
-Support
-Real-time Support
 
-Discord: https://discord.com/invite/FrsNM5v9
+## Support
 
-Team Contacts
+### Real-time Support
+- **Discord**: https://discord.com/invite/FrsNM5v9
 
-Product Team: Yaqi Luo - https://www.linkedin.com/in/luoyaqi/
-Technical Team: Frank Chen - https://www.linkedin.com/in/frank-chen-85979b169/
+### Team Contacts
+- **Product Team**: Yaqi Luo - https://www.linkedin.com/in/luoyaqi/
+- **Technical Team**: Frank Chen - https://www.linkedin.com/in/frank-chen-85979b169/
 
-Reporting Issues
+### Reporting Issues
+
 Found a faulty asset? Contact us:
 
-Discord: https://discord.com/invite/FrsNM5v9 (fastest response)
-Email: haibo.yang@lightwheel.ai (detailed reports)
-GitHub Issues: For bug tracking and community visibility
+- **Discord**: https://discord.com/invite/FrsNM5v9 (fastest response)
+- **Email**: haibo.yang@lightwheel.ai (detailed reports)
+- **GitHub Issues**: For bug tracking and community visibility
 
 Include in your report:
+- Asset name and download link
+- Isaac Sim version
+- Issue description
+- Steps to reproduce
 
-Asset name and download link
-Isaac Sim version
-Issue description
-Steps to reproduce
+## Why Choose Lightwheel Assets?
 
-Why Choose Lightwheel Assets?
+- **Isaac Sim Native** - USD format designed for Isaac Sim
+- **Plug & Play** - No conversion needed
+- **Battle-Tested** - Validated with Isaac Lab and RL
+- **Interactive** - Pre-configured articulation
+- **Free & Open** - Apache 2.0 license
+- **Community Support** - Active Discord community
 
-Isaac Sim Native - USD format designed for Isaac Sim
-Plug & Play - No conversion needed
-Battle-Tested - Validated with Isaac Lab and RL
-Interactive - Pre-configured articulation
-Free & Open - Apache 2.0 license
-Community Support - Active Discord community
+## Contributing
 
-Contributing
+- **Bug Reports**: Open an issue
+- **Feature Requests**: Join our Discord
+- **Asset Improvements**: Submit a pull request
+- **Documentation**: Help improve guides
 
-Bug Reports: Open an issue
-Feature Requests: Join our Discord
-Asset Improvements: Submit a pull request
-Documentation: Help improve guides
+## Contact Information
 
-Contact Information
-Lightwheel AI
+**Lightwheel AI**
 10080 N Wolfe Rd SW3 200, Cupertino, CA 95014
 Email: haibo.yang@lightwheel.ai
 Website: https://www.lightwheel.ai
 
-Made with ❤️ by the Lightwheel AI team
+---
 
+Made with ❤️ by the Lightwheel AI team
