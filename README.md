@@ -50,9 +50,7 @@ Open-source USD assets for Isaac Sim robotics simulation and training.
 ## Technical Specifications
 
 - **Format**: USD (.usd, .usdz)
-- **Target Platform**: NVIDIA Isaac Sim 2023.1.1+
-- **Physics**: PhysX-ready collision meshes
-- **Rendering**: RTX-optimized PBR materials
+- **Target Platform**: NVIDIA Isaac Sim 4.5, 5
 - **Interaction**: Pre-configured articulation
 - **Testing**: Isaac Lab, Teleoperation, RL validated
 
