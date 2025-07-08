@@ -116,6 +116,30 @@ Include in your report:
 Email: haibo.yang@lightwheel.ai
 Website: https://www.lightwheel.ai
 
+
+Citation
+If you use Lightwheel Sim-Ready Assets in your research or projects, please cite it as follows:
+BibTeX
+bibtex@misc{lightwheel_simready_2025,
+  title={Lightwheel Sim-Ready Assets: High-Quality USD Assets for NVIDIA Isaac Sim},
+  author={{Lightwheel}},
+  howpublished={GitHub repository},
+  url={https://github.com/LightwheelAI/Lightwheel-simready-asset},
+  year={2025},
+  version={v1},
+  note={259 robotics simulation assets under CC BY-NC 4.0}
+}
+APA Style
+textLightwheel. (2025). Lightwheel Sim-Ready Assets: High-Quality USD Assets for NVIDIA Isaac Sim (Version v1) [3D assets]. GitHub. https://github.com/LightwheelAI/Lightwheel-simready-asset
+IEEE Style
+textLightwheel, "Lightwheel Sim-Ready Assets: High-Quality USD Assets for NVIDIA Isaac Sim," Version v1, 2025. [Online]. Available: https://github.com/LightwheelAI/Lightwheel-simready-asset
+Plain Text
+textLightwheel (2025). Lightwheel Sim-Ready Assets: High-Quality USD Assets for NVIDIA Isaac Sim. Version v1. Available at: https://github.com/LightwheelAI/Lightwheel-simready-asset
+
+License: This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
+
+
+
 ---
 
 Made with ❤️ by the Lightwheel AI team
