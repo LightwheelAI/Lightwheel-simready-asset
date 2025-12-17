@@ -3,7 +3,7 @@ Open-source 3D digital assets for simulation and robot training. Free for non-co
 
 ## Quick Links
 
-- **Download Assets**: [https://www.lightwheel.ai/assets-list](https://drive.google.com/file/d/1S1W-vDNvsOOQU0qViEax_QS0zr0zGLfX/view?usp=sharing)
+- **Download Assets**: https://drive.google.com/file/d/1S1W-vDNvsOOQU0qViEax_QS0zr0zGLfX/view?usp=sharing
 - **Discord Community**: https://discord.com/invite/FrsNM5v9
 - **Product Team**: https://www.linkedin.com/in/luoyaqi/
 - **Technical Team**: https://www.linkedin.com/in/frank-chen-85979b169/
@@ -17,12 +17,6 @@ Open-source 3D digital assets for simulation and robot training. Free for non-co
 - **USD Format** - Native .usd/.usdz files ready for Isaac Sim
 - **Fully Tested** - Validated with Isaac Lab, teleoperation, and RL workflows
 
-## Quick Start
-
-1. Visit https://www.lightwheel.ai/assets-list
-2. Download USD assets
-3. Drag and drop into Isaac Sim
-4. Use **Shift + Left Click** for articulated objects (doors, drawers)
 
 **Attribution Required**: Use naming format `lightwheel_{asset_name}` in your projects
 
