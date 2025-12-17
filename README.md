@@ -3,7 +3,7 @@ Open-source 3D digital assets for simulation and robot training. Free for non-co
 
 ## Quick Links
 
-- **Download Assets**: https://www.lightwheel.ai/assets-list
+- **Download Assets**: [https://www.lightwheel.ai/assets-list](https://drive.google.com/file/d/1S1W-vDNvsOOQU0qViEax_QS0zr0zGLfX/view?usp=sharing)
 - **Discord Community**: https://discord.com/invite/FrsNM5v9
 - **Product Team**: https://www.linkedin.com/in/luoyaqi/
 - **Technical Team**: https://www.linkedin.com/in/frank-chen-85979b169/
